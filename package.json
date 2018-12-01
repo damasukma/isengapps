@@ -1,0 +1,16 @@
+{
+  "name": "checker",
+  "version": "1.0.0",
+  "description": "for check gosms",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dama Sukma",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^6.2.0",
+    "moment": "^2.22.2",
+    "ora": "^3.0.0"
+  }
+}
